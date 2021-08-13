@@ -6,10 +6,10 @@ Guide to testing the code:
 
 1 - First Step ->
 Install npm list:
-npm install graphql
-npm install graphql-request
-npm add graphql-request graphql
-npm install replaceall
+npm install graphql,
+npm install graphql-request,
+npm add graphql-request graphql,
+npm install replaceall,
 npm install fs
 
 2 - Seccond Step ->
